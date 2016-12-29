@@ -65,5 +65,5 @@ Note:
 -----
 
 The code is move-bias enabled  
-The code is also optimize-source enabled
+The code is optimize-source enabled
 
