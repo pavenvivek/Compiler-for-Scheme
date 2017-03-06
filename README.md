@@ -5,14 +5,14 @@ The checked-in code passes all the expected test cases. The testing summary is a
 
 Compiler Language Information
 -----------------------------
-Source Langauge: Subset of Scheme 
-Target Language: x86-64 (AMD64) assembly  
-Host   Language: Scheme 
+Source Langauge: Subset of Scheme  
+Target Language: x86-64 (AMD64) assembly   
+Host   Language: Scheme  
 
 Compilers used:
 ---------------
-Chez Scheme Version 8.4 - used for producing the assembly code (.s)
-GCC - used for compiling Framework/Runtime.c and executing the assembly codes
+Chez Scheme Version 8.4 - used for producing the assembly code (.s)  
+GCC - used for compiling Framework/Runtime.c and executing the assembly codes  
 
 Compiler Passes:
 ----------------
