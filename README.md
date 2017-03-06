@@ -3,17 +3,16 @@ The compiler for subset of scheme developed as part of P523
 
 The checked-in code passes all the expected test cases. The testing summary is as follows:
 
-Testing Summary
-----------------------------
-Expected Passes:         164  
-Unexpected Passes:         0  
-Expected Failures:        87  
-Unexpected Failures:       0  
-Total:                   251  
+Compiler Language Information
+-----------------------------
+Source Langauge: Subset of Scheme 
+Target Language: x86-64 (AMD64) assembly  
+Host   Language: Scheme 
 
-Scheme compiler used:
----------------------
-Chez Scheme Version 8.4
+Compilers used:
+---------------
+Chez Scheme Version 8.4 - used for producing the assembly code (.s)
+GCC - used for compiling Framework/Runtime.c and executing the assembly codes
 
 Compiler Passes:
 ----------------
