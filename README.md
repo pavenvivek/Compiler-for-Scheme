@@ -5,9 +5,9 @@ The checked-in code passes all the expected test cases. The testing summary is a
 
 Compiler Language Information
 -----------------------------
-Source Langauge: Subset of Scheme  
-Target Language: x86-64 (AMD64) assembly   
-Host   Language: Scheme  
+Source Langauge : Subset of Scheme  
+Target Language : x86-64 (AMD64) assembly   
+Host   Language : Scheme  
 
 Compilers used:
 ---------------
